@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Name>Fantasista.siridb</Name>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="QPack" Version="0.1.0" />
+  </ItemGroup>
+</Project>
